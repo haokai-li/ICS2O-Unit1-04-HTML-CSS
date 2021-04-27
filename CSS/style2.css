@@ -1,0 +1,45 @@
+/* Created by: haokai
+* Created on: Apr 2021
+* This CSS file defines the style for index.html ICS2O-Unit1-04-HTML-CSS
+*/
+
+body {
+  background-color:rgb(176, 230, 185);
+}
+
+h1 {
+  background-color: #47cbff;
+  color: rgb(20, 90, 220);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color:#ff6600;
+}
+
+ul {
+  color: rgb(39, 39, 37);
+}
+
+ul li::before {
+  content: "✅";
+}
+
+table {
+  border: solid thin;
+}
+
+th {
+  background-color: #ff47f0;
+  color: rgb(180, 17, 31);
+  padding: 40px;
+  text-align: center;
+}
+
+td {
+  background-color: #71c53a;
+  color: rgb(228, 238, 142);
+  padding: 40px;
+  text-align: center;
+}
